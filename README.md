@@ -2,17 +2,20 @@
 <h3 align="center">A passionate python full stack developer</h3>
 <image align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-333&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-333" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveen-333" alt="naveen-333" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/it'z navee" target="blank"><img src="https://img.shields.io/twitter/follow/it'z navee?logo=twitter&style=for-the-badge" alt="it'z navee" /></a> </p>
 
 - 🔭 I’m currently learning **python fullstack**
 
 - 👯 I’m looking for opportunity on **Information Technology**
 
 - 📫 How to reach me **naveenbanla.123@gmail.com**
+  
+  
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-333&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-333" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveen-333" alt="naveen-333" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/it'z navee" target="blank"><img src="https://img.shields.io/twitter/follow/it'z navee?logo=twitter&style=for-the-badge" alt="it'z navee" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
