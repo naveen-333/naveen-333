@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">A passionate python full stack developer</h3>
-<image align="right" alt="Coding" width="400" src= "https://stormotion.io/blog/full-time-developer-vs-freelancer-vs-software-development-company/">
+<image align="right" alt="Coding" width="400" src= "https://cdn.sanity.io/images/ordgikwe/production/816651876948b381a9d998556b03b5263f996ec1-800x600.png?w=800&h=600&auto=format">
 
 - 🔭 I’m currently learning **python fullstack**
 
