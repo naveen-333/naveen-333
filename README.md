@@ -2,16 +2,11 @@
 <h3 align="center">A passionate python full stack developer</h3>
 <image align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
 - 🔭 I’m currently learning **python fullstack**
 
 - 👯 I’m looking for opportunity on **Information Technology**
 
 - 📫 How to reach me **naveenbanla.123@gmail.com**
-  
-  
-  
-  
   
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-333&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-333" /> </p>
